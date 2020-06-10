@@ -1,7 +1,7 @@
 import React from 'react';
 
 function button(){
-    return <div>div</div>;
+    return <button>Previous</button>;
 }
 
 export default button;
